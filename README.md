@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshkumar62367@gmail.com**
 
-- ⚡ Fun fact **I am an amime binge-watcher**
+- ⚡ Fun fact **I am an anime binge-watcher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
