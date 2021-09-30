@@ -41,8 +41,7 @@
 
 
 <p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=radical" alt="harshkumar62367" /></p>
-
-
+<h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
 
 
