@@ -57,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar62367&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harshkumar62367" /></p>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&line_height=19&theme=algolia" alt="harshkumar62367" /></p>
 </td>
 </tr>
 </table></p>
