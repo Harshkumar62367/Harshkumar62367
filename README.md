@@ -35,10 +35,10 @@
   
 <h2 align="center">My Github Stats</h2>
 
-<p align="middle"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar62367&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harshkumar62367" /></p>
+<p align="middle"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar62367&show_icons=true&locale=en&layout=compact&theme=dark" alt="harshkumar62367" /></p>
 
 
-<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=algolia" alt="harshkumar62367" /></p>
+<p align="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=dark" alt="harshkumar62367" /></p>
 <h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
 
