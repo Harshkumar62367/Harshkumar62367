@@ -34,8 +34,6 @@
 <br>
 
 <h2 align="center">My Contributions Graph</h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=harshkumar62367&theme=xcode)
   
 <h2 align="center">My Github Stats</h2>
 
@@ -46,4 +44,4 @@
 <h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
 
-
+![](https://activity-graph.herokuapp.com/graph?username=harshkumar62367&theme=xcode)
