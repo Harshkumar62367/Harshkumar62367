@@ -35,7 +35,7 @@
 
 <h2 align="center">My Contributions Graph</h2>
 
-![](https://activity-graph.herokuapp.com/graph?username=harshkumar62367&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=harshkumar62367&theme=xcode)
   
 <h2 align="center">My Github Stats</h2>
 
