@@ -55,12 +55,13 @@
   <tr>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar62367&show_icons=true&locale=en&layout=compact&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
-</td>
-<td>
+   </td>
+   <td>
 <img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
-</td>
-</tr>
-</table></p>
+   </td>
+ </tr>
+</table>
+</p>
 
 <h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
