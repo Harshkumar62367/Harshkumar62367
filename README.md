@@ -52,7 +52,7 @@
   
 <h2 align="center">My Github Stats</h2>
 
-<p align = "center">
+<p align ="center">
 <table>
   <tr>
     <td>
