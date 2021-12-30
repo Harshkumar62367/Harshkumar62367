@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
 
 <p align="middle"> <img src="https://github-profile-trophy.vercel.app/?username=harshkumar62367&column=4&margin-w=15&margin-h=15&theme=radical" alt="harshkumar62367" /> </p>
@@ -31,7 +30,6 @@
 </p>
 
 <br>
-
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
