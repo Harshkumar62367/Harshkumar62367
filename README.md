@@ -20,6 +20,7 @@
 
 - ⚡ Fun fact **I am an anime binge-watcher**
 
+
 <h2 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/@harsh_y20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@harsh_y20" height="30" width="40" /></a>
