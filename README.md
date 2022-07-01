@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my-portfolio**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshkumar62367](https://github.com/Harshkumar62367)
 
