@@ -72,5 +72,5 @@
 
 <h2 align="center">My Contributions Graph</h2>
 
-![](https://activity-graph.herokuapp.com/graph?username=harshkumar62367&theme=xcode)
+![](https://honzaap.github.io/GithubCity/?name=harshkumar62367&year=2022)
 
