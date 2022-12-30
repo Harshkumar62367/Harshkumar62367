@@ -70,7 +70,7 @@
 <h2 align="center"> My Github Streak</h2>
 <p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
 
-<h2 align="center">My Contributions Graph</h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=harshkumar62367&theme=xcode)
+<div align="center">
+<img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
+</div>
 
