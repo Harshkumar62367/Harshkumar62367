@@ -69,7 +69,7 @@
 </p>
 
 <h2 align="center"> My Github Streak</h2>
-<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical" alt="harshkumar62367" /></p>
+<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=algolia" alt="harshkumar62367" /></p>
 
 ---
 <div align="center">
