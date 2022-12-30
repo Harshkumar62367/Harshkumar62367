@@ -75,8 +75,8 @@
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
 <i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/j4web31.svg?style=social&label=Follow%20%40j4web)](https://twitter.com/Spectre_harsh07)
+[![Twitter URL](https://img.shields.io/twitter/follow/spectre_harsh07?style=social)](https://twitter.com/Spectre_harsh07)
 <a href="https://www.linkedin.com/in/harsh-kumar-125ba8200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FHarshkumar62367" target="_blank"><img src="https://img.shields.io/github/followers/harshkumar62367?style=social" alt="Instagram"></a>
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FHarshkumar62367" target="_blank"><img src="https://img.shields.io/github/followers/harshkumar62367?style=social" alt="Github"></a>
 </div>
 
