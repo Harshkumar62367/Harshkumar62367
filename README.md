@@ -4,7 +4,7 @@
 <div align = "center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
 
-![github-header-image](https://user-images.githubusercontent.com/72465090/210104373-4edd920f-3cd5-481d-86b6-6fa7696067a2.png)
+![Header](./github-header-image.png)
 
 
 <p align="middle"> <a href="https://twitter.com/@spectre_harsh07" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p>
