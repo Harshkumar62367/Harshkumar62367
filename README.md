@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web3 developer from India</h3>
 <div align = "center">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
 
 ![Header](./github-header-image.png)
 
