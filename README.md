@@ -7,6 +7,7 @@
 
 <p align="middle"> <a href="https://twitter.com/@spectre_harsh07" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p>
 </div>
+
 - 🔭 I’m currently working on **Rental NFT Protocol**
 
 - 🌱 I’m currently learning **Blockchain Development**
