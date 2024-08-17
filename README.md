@@ -8,13 +8,13 @@
 <p align="middle"> <a href="https://twitter.com/@spectre_harsh07" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **Rental NFT Protocol**
+- 🔭 I’m currently working on **Jiffyscan**
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Account Abstraction**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshkumar62367](https://github.com/Harshkumar62367)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Ethereum, L2s, AA, Solidity**
 
 - 📫 How to reach me **harshkumar62367@gmail.com**
 
