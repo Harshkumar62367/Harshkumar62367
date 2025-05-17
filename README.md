@@ -8,7 +8,7 @@
 <p align="middle"> <a href="https://twitter.com/@spectre_harsh07" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **Jiffyscan**
+- 🔭 I’m currently working in **Apllication layer in crypto**
 
 - 🌱 I’m currently learning **Account Abstraction**
 
