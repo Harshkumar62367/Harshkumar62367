@@ -18,8 +18,12 @@
 
 - 📫 How to reach me **harshkumar62367@gmail.com**
 
-- ⚡ Fun fact **I am an anime binge-watcher**
+If you love my work, tip me here:
+<div align ="center">
+ 
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/spectre_7)
 
+</div>
 
 
 <h2 align="center">Connect with me:</h3>
