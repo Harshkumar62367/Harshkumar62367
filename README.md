@@ -1,86 +1,79 @@
-<div align = "center">
+<div align="center">
 
-![Header](./header-image-github.png)
+# Hi there, I'm Harsh! 👋
+### Software Engineer | AI Innovator | Web3 Builder
 
-<p> <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar62367" /> </p>
-
-
-<p align="middle"> <a href="https://twitter.com/@spectre_harsh07" target="blank"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?logo=twitter&style=for-the-badge" alt="@spectre_harsh07" /></a> </p>
-</div>
-
-- 🔭 I’m currently working in **Application layer in crypto**
-
-- 🌱 I’m currently learning **Account Abstraction**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Harshkumar62367](https://github.com/Harshkumar62367)
-
-- 💬 Ask me about **Ethereum, L2s, AA, Solidity**
-
-- 📫 How to reach me **harshkumar62367@gmail.com**
-
-If you love my work, tip me here:
-<div align ="center">
- 
-[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/spectre_7)
-
-</div>
-
-
-<h2 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/@harsh_y20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@harsh_y20" height="30" width="40" /></a>
-<a href="https://dev.to/@spectre_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@spectre_7" height="30" width="40" /></a>
-<a href="https://twitter.com/@spectre_harsh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@spectre_harsh07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-kumar-125ba8200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-kumar-125ba8200" height="30" width="40" /></a>
-<a href="https://kaggle.com/harshkumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshkumar07" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20Views&color=0e75b6&style=flat-square" alt="harshkumar62367" />
+  <a href="https://twitter.com/spectre_harsh07"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?label=Follow&style=social" /></a>
 </p>
-
-<br>
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<br>
- 
-<h2 align="center">My Github Stats</h2>
-
-<p align ="center">
-<table>
-  <tr>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar62367&show_icons=true&locale=en&layout=compact&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
-   </td>
-   <td>
-<img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&line_height=20&theme=algolia" alt="harshkumar62367" /></p>
-   </td>
- </tr>
-</table>
-</p>
-
-<h2 align="center"> My Github Streak</h2>
-<p align="middle"><img align "middle" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=algolia" alt="harshkumar62367" /></p>
 
 ---
-<div align="center">
-<img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="Bye!" width="300"/>
 
-<i>Follow me around the web:</i><br>
-[![Twitter URL](https://img.shields.io/twitter/follow/spectre_harsh07?style=social)](https://twitter.com/Spectre_harsh07)
-<a href="https://www.linkedin.com/in/harsh-kumar-125ba8200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FHarshkumar62367" target="_blank"><img src="https://img.shields.io/github/followers/harshkumar62367?style=social" alt="Github"></a>
+"Bridging the gap between Intelligent Agents and Decentralized Protocols."
+
 </div>
 
+## 🚀 About Me
+
+- 🤖 **Currently Focused On:** Building AI-powered productivity tools and autonomous agents.
+- ⛓️ **Web3 Expertise:** Deep diving into **Account Abstraction (ERC-4337)** and EVM infrastructure.
+- 💡 **Active Project:** Developing a **Video-to-Quiz AI** platform using LLMs, Node.js, and Prisma.
+- 🏆 **Hackathon Enthusiast:** Multiple wins across BNBChain and Polygon ecosystems.
+- 💬 **Ask me about:** LLM Orchestration, Solidity, React, and System Design.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Artificial Intelligence & Data
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 🌐 Web3 & Blockchain
+<p>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-243347?style=for-the-badge&logo=ethersdotjs&logoColor=white" />
+</p>
+
+### 💻 Full Stack Development
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=algolia" width="100%" />
+</div>
+
+---
+
+## 📬 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-125ba8200)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spectre_harsh07)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/spectre_7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkumar62367@gmail.com)
+
+</div>
+
+<p align="center">
+  <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" width="200" />
+</p>
