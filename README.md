@@ -25,38 +25,21 @@ Software Engineer with expertise in AI-powered applications and Web3 infrastruct
 
 ## 💼 Work Experience
 
-| Role | Company | Duration | Key Contributions |
-|------|---------|----------|-------------------|
-| **Software Engineer** | Tata Elxsi | Present | Building AI-powered productivity tools and autonomous agent systems |
-| **Developer Relations** | Jiffyscan | Previous | Community building and developer tooling for blockchain ecosystem |
-| **Intern** | Polygon-Flipkart CoE | Previous | Web3 infrastructure and smart contract development |
-| **Contributor** | 0xHashstack | Previous | DeFi protocol development and smart contract auditing |
+**Software Engineer** @ Tata Elxsi  
+*Present*  
+Building AI-powered productivity tools and autonomous agent systems
 
-## 🏆 Featured Projects
+**Developer Relations** @ Jiffyscan  
+*Previous*  
+Community building and developer tooling for blockchain ecosystem
 
-### 🤖 **AI-Powered Video-to-Quiz Platform**
-*Node.js • LLMs • Prisma • TypeScript*
-- Converts educational videos into interactive quizzes using LLM orchestration
-- Real-time processing pipeline with automated question generation
-- Scalable architecture serving 1000+ concurrent users
+**Intern** @ Polygon-Flipkart CoE  
+*Previous*  
+Web3 infrastructure and smart contract development
 
-### ⛓️ **Account Abstraction Dashboard**
-*Solidity • ERC-4337 • React • Ethers.js*
-- Visual interface for managing smart contract wallets and gas sponsorship
-- Integration with multiple EVM chains (Polygon, BNBChain, Ethereum)
-- Batch transaction processing and social recovery features
-
-### 🏗️ **Decentralized Governance Platform**
-*Solidity • IPFS • The Graph • React*
-- DAO creation and management with customizable voting mechanisms
-- On-chain proposal system with quadratic voting
-- Gas-optimized smart contracts handling 10K+ votes
-
-### 🔧 **Developer Tooling Suite**
-*TypeScript • Docker • PostgreSQL • AWS*
-- CLI tools for smart contract deployment and verification
-- Automated testing framework with 95%+ coverage
-- CI/CD pipelines for Web3 projects
+**Contributor** @ 0xHashstack  
+*Previous*  
+DeFi protocol development and smart contract auditing
 
 ## 🛠️ Technical Expertise
 
@@ -89,8 +72,12 @@ Software Engineer with expertise in AI-powered applications and Web3 infrastruct
 <div align="center">
   
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=algolia&count_private=true&hide_border=true)
-  
+
+<br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar62367&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+
+<br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=algolia&hide_border=true)
 
@@ -138,6 +125,8 @@ Active contributor to:
 **Open to:** Senior Software Engineer roles in AI/ML, Web3 infrastructure, or full-stack development  
 **Location:** Bangalore, India • Open to remote opportunities  
 **Status:** Actively building and exploring new challenges
+
+<br>
 
 <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" width="200" />
 
