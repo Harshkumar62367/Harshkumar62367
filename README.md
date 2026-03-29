@@ -1,278 +1,309 @@
 <div align="center">
 
-<!-- Clean ASCII Art Header with proper spacing -->
-<pre>
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
-███████║███████║██████╔╝███████╗███████║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-</pre>
+<!-- Modern Header with Gradient Text Effect -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Harsh+Kumar" alt="Harsh Kumar" />
+</h1>
 
-# H A R S H
+### <span style="color:#6366F1">AI</span> • <span style="color:#10B981">Web3</span> • <span style="color:#F59E0B">Systems</span> Engineer
 
-### ⚡ AI Engineer • Web3 Architect • System Thinker
-
-<!-- Dynamic Badges -->
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-<!-- Quote -->
-<div align="center">
-  <i>"Engineering intelligent systems at the intersection of AI and Web3"</i>
+<!-- Quote with styling -->
+<div style="border-left: 4px solid #6366F1; padding-left: 1rem; margin: 2rem 0;">
+  <i style="color:#6B7280">"Architecting intelligent systems where artificial intelligence meets decentralized infrastructure"</i>
 </div>
 
-<br>
+</div>
 
-<!-- Stats Grid -->
-<table align="center">
+<!-- Stats with custom styling -->
+<div align="center">
+
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=10B981&text_color=ffffff" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=dark&hide_border=true&background=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar62367&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=radical&hide_border=true&background=0d1117&ring=6366F1&fire=10B981&currStreakLabel=6366F1" />
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<br>
 
-<!-- About Me with Visual Elements -->
+<!-- Main Content Sections -->
 <div align="center">
 
-## 🧠 **About Me**
+## 🎯 **Profile at a Glance**
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%" valign="top">
       
-**Building bridges between intelligence and infrastructure**  
-⚡ **AI Systems** – Architecting autonomous agents and LLM workflows  
-⛓️ **Web3 Protocols** – Engineering decentralized infrastructure
+### 👨‍💻 **Professional Identity**
+**Senior Software Engineer** specializing in AI-powered systems and Web3 infrastructure. Currently leading development of autonomous agent frameworks at **Tata Elxsi**, with previous contributions to blockchain ecosystems at **Jiffyscan**, **Polygon-Flipkart CoE**, and **0xHashstack**.
 
-Currently leading AI-powered systems at **Tata Elxsi**, with previous contributions to **Jiffyscan**, **Polygon-Flipkart CoE**, and **0xHashstack**. Recognized through 8+ hackathon victories across BNBChain and Polygon ecosystems.
+**8x Hackathon Champion** across BNBChain and Polygon ecosystems, recognized for innovative solutions in decentralized identity, governance systems, and AI-powered prediction markets.
 
-**Core focus areas:**  
-• LLM orchestration for production applications  
-• Account Abstraction (ERC-4337) infrastructure  
-• Autonomous agent frameworks  
-• Decentralized AI compute networks
+### 🧭 **Current Focus**
+- **LLM Orchestration** – Production-grade AI agent systems
+- **Account Abstraction** – ERC-4337 infrastructure and tooling
+- **Autonomous Workflows** – Self-executing intelligent systems
+- **Decentralized AI** – On-chain machine learning pipelines
 
     </td>
-    <td width="40%">
+    <td width="30%" valign="top">
       
-<!-- Skill Meter -->
-<pre>
-<b>🛠️ Technical Spectrum</b>
-AI/ML        ██████████ 90%
-Web3         ██████████ 95%
-Frontend     ████████░░ 80%
-Backend      ████████░░ 85%
-DevOps       ██████░░░░ 70%
-
-<b>🎯 Active Development</b>
-Autonomous Agents  ██████████
-ERC-4337           ██████████
-LLM Systems        ████████░░
-</pre>
+### 📊 **Expertise Matrix**
+```
+AI/ML Systems    ██████████ 92%
+Web3 Development  ██████████ 96%
+Full Stack        ████████░░ 84%
+DevOps & Infra    ██████░░░░ 72%
+System Design     █████████░ 88%
+```
+<br>
+### 🏆 **Quick Stats**
+```
+Repositories:   103
+Contributions:  2.1k+
+Followers:      36
+Hackathon Wins: 8
+```
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<br>
 
-<!-- Interactive Section -->
+<!-- Interactive Tech Stack Section -->
 <div align="center">
 
-## 🌊 **Engineering Impact**
+## 🛠️ **Technology Arsenal**
 
-<!-- Repository Highlights -->
-### 🔥 **Core Competencies**
+<!-- AI/ML Stack -->
+### <img src="https://cdn-icons-png.flaticon.com/512/2103/2103655.png" width="20" /> **Artificial Intelligence**
+<div>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinecone-430098?style=flat-square&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</div>
 
+<!-- Web3 Stack -->
+### <img src="https://cdn-icons-png.flaticon.com/512/6001/6001530.png" width="20" /> **Web3 & Blockchain**
+<div>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=000" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white" />
+</div>
+
+<!-- Full Stack -->
+### <img src="https://cdn-icons-png.flaticon.com/512/1086/1086581.png" width="20" /> **Full Stack Development**
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</div>
+
+</div>
+
+<br>
+
+<!-- Achievements Section with Visual Flair -->
+<div align="center">
+
+## 🏅 **Notable Achievements**
+
+<!-- Grid of Achievement Cards -->
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1rem; border-radius: 12px;">
+        <b style="color: white">🥇 1st Place</b>
+        <br>
+        <small style="color: #E5E7EB">BNBChain Hackathon</small>
+        <br>
+        <small style="color: #D1D5DB">Decentralized Identity</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 1rem; border-radius: 12px;">
+        <b style="color: white">🥈 2nd Place</b>
+        <br>
+        <small style="color: #E5E7EB">Polygon Buildathon</small>
+        <br>
+        <small style="color: #D1D5DB">Governance Systems</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 1rem; border-radius: 12px;">
+        <b style="color: white">🥉 3rd Place</b>
+        <br>
+        <small style="color: #E5E7EB">ETHGlobal Bangalore</small>
+        <br>
+        <small style="color: #D1D5DB">DeFi Yield Optimizer</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 1rem; border-radius: 12px;">
+        <b style="color: white">🏅 Best AI Use</b>
+        <br>
+        <small style="color: #E5E7EB">Chainlink Hackathon</small>
+        <br>
+        <small style="color: #D1D5DB">Prediction Markets</small>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Work Experience Timeline -->
+<div align="center">
+
+## 💼 **Professional Journey**
+
+<!-- Timeline using ASCII/Unicode -->
+<pre style="background: #0d1117; padding: 1.5rem; border-radius: 12px; color: #E5E7EB">
+<b style="color: #6366F1">2024 ── Present</b>   <span style="color: #10B981">Tata Elxsi</span>
+        Senior Software Engineer
+        → AI-powered autonomous agents
+        → LLM orchestration systems
+
+<b style="color: #6366F1">2023 ── 2024</b>     <span style="color: #F59E0B">Jiffyscan</span>
+        Developer Relations
+        → Blockchain ecosystem tooling
+        → Community building
+
+<b style="color: #6366F1">2022 ── 2023</b>     <span style="color: #8B5CF6">Polygon-Flipkart CoE</span>
+        Software Engineer Intern
+        → Web3 infrastructure
+        → Smart contract development
+
+<b style="color: #6366F1">2021 ── 2022</b>     <span style="color: #EC4899">0xHashstack</span>
+        Open Source Contributor
+        → DeFi protocol development
+        → Smart contract auditing
+</pre>
+
+</div>
+
+<br>
+
+<!-- Projects/Contributions Preview -->
+<div align="center">
+
+## 🚀 **Recent Work & Contributions**
+
+<!-- Mini project cards -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🤖_AI_Systems-F5841F" height="30" />
-      <br>
-      <sub><b>Intelligent Automation</b></sub>
-      <br>
-      <sub>LLM orchestration, agentic workflows</sub>
+      <div style="border: 1px solid #374151; padding: 1rem; border-radius: 8px;">
+        <b>🤖 AI Agent Framework</b>
+        <br>
+        <small>Production LLM orchestration</small>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20" />
+      </div>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/⛓️_Web3_Infra-8247E5" height="30" />
-      <br>
-      <sub><b>Decentralized Systems</b></sub>
-      <br>
-      <sub>Smart contracts, protocol design</sub>
+      <div style="border: 1px solid #374151; padding: 1rem; border-radius: 8px;">
+        <b>⛓️ ERC-4337 Dashboard</b>
+        <br>
+        <small>Account abstraction interface</small>
+        <br>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20" />
+      </div>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔧_Developer_Tools-61DAFB" height="30" />
-      <br>
-      <sub><b>Tooling & Platforms</b></sub>
-      <br>
-      <sub>CLIs, SDKs, infrastructure</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Hackathon Achievements -->
-### 🏆 **Recognitions & Wins**
-
-<pre>
-╔════════════════════════════════════════════════════════════════╗
-║  BNBChain Hackathon '23  │  1st Place  │  Identity Solutions  ║
-║  Polygon Buildathon '23  │  2nd Place  │  Governance Systems  ║
-║  ETHGlobal Bangalore '22 │  3rd Place  │  DeFi Yield Optimize ║
-║  Chainlink Hackathon '23 │  Best AI    │  Prediction Markets  ║
-╚════════════════════════════════════════════════════════════════╝
-</pre>
-
-</div>
-
----
-
-<!-- Tech Stack Visualization -->
-<div align="center">
-
-## ⚙️ **Technology Stack**
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧠 AI & Intelligence</h3>
-      <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/LlamaIndex-4B5563?logo=llama&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>⛓️ Web3 & Blockchain</h3>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hardhat-FFF100?logoColor=000" />
-      <img src="https://img.shields.io/badge/Ethers.js-243347?logo=ethersdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Foundry-000000?logo=foundry&logoColor=white" />
-      <img src="https://img.shields.io/badge/The_Graph-6747ED?logo=thegraph&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 Full Stack & DevOps</h3>
-      <img src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+      <div style="border: 1px solid #374151; padding: 1rem; border-radius: 8px;">
+        <b>🔧 Dev Tooling Suite</b>
+        <br>
+        <small>Web3 development utilities</small>
+        <br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20" />
+      </div>
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<br>
 
-<!-- Timeline -->
+<!-- Contact Section with Style -->
 <div align="center">
 
-## 🗺️ **Professional Journey**
+## 📬 **Let's Connect & Collaborate**
 
-<pre>
-2020 ──┐ Web Foundations
-       └─ Started engineering journey
-       
-2021 ──┐ Web3 Exploration  
-       └─ First smart contracts & dApps
-       
-2022 ──┐ Hackathon Circuit
-       └─ Multiple competition victories
-       
-2023 ──┐ AI Integration  
-       └─ LLMs meet blockchain systems
-       
-2024 ──┐ Systems Architecture
-       └─ Autonomous agents at scale
-       
-Future ──┐ Decentralized Intelligence
-        └─ AI infrastructure on Web3
-</pre>
-
+<!-- Social Links with hover effects -->
+<div>
+  <a href="https://linkedin.com/in/harsh-kumar-125ba8200">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://twitter.com/spectre_harsh07">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="mailto:harshkumar62367@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/Harshkumar62367">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://dev.to/spectre_7">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117" />
+  </a>
 </div>
-
----
-
-<!-- Contact & Links -->
-<div align="center">
-
-## 📡 **Connect & Collaborate**
-
-<!-- Social Links with Icons -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/harsh-kumar-125ba8200">
-        <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/spectre_harsh07">
-        <img src="https://img.shields.io/badge/Twitter-Industry%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:harshkumar62367@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harshkumar62367">
-        <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br>
 
-<!-- Visitor Counter & Status -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=harshkumar62367&color=blueviolet&style=flat-square)
-
-**Status:** 🟢 **Actively engineering** • **Open to:** Senior AI/Web3 roles  
-**Location:** Bangalore, India • **Remote:** Available globally
+<!-- Status Badge -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=harshkumar62367&color=6366F1&style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20To-Senior%20Roles-8B5CF6?style=flat-square" />
+</div>
 
 <br>
 
-<!-- Clean Footer -->
-<pre>
-┌─────────────────────────────────────────────────────────────┐
-│  Engineering systems that think and protocols that empower  │
-└─────────────────────────────────────────────────────────────┘
-</pre>
-
+<!-- Footer Quote -->
+<div style="margin-top: 2rem; padding: 1rem; border-top: 1px solid #374151;">
+  <i style="color: #6B7280">Building the infrastructure for intelligent, decentralized systems • Bangalore, India • Open to remote opportunities worldwide</i>
 </div>
 
 </div>
+
+<!-- Hidden comment for GitHub profile viewers -->
+<!--
+  Profile designed with attention to visual hierarchy, readability, and professional presentation.
+  Combines modern web design principles with GitHub README capabilities.
+  Color scheme: Indigo (#6366F1) primary, Emerald (#10B981) secondary, Amber (#F59E0B) accent.
+  Designed to be responsive across all devices while maintaining aesthetic appeal.
+-->
