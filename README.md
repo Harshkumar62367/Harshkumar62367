@@ -1,133 +1,271 @@
 <div align="center">
 
-# Harsh Kumar
+<!-- ASCII Art Header -->
+<pre>
+  ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+  ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+  ███████║███████║██████╔╝███████╗███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+  ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+  ██║  ██║██║  ██║██║  ██║███████║██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+                                                                                          
+  ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██████╗ ███████╗██████╗ 
+  ██╔════╝██║  ██║██╔══██╗██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+  ███████╗███████║██████╔╝██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+  ╚════██║██╔══██║██╔═══╝ ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
+  ███████║██║  ██║██║     ███████╗╚██████╔╝██║  ██║███████╗██║  ██║
+  ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+</pre>
 
-### Software Engineer • AI & Web3 Specialist • Open Source Contributor
+### ⚡ AI Engineer • Web3 Builder • Open Source Alchemist
 
+<!-- Dynamic Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=harshkumar62367&label=Profile%20Views&color=0e75b6&style=flat-square" alt="harshkumar62367" />
-  <a href="https://twitter.com/spectre_harsh07"><img src="https://img.shields.io/twitter/follow/spectre_harsh07?label=Follow&style=social" /></a>
-  <img src="https://img.shields.io/badge/103%20Public%20Repos-8A2BE2" />
-  <img src="https://img.shields.io/badge/36%20Followers-2E8B57" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
----
+<!-- Quote -->
+<div align="center">
+  <i>"Where intelligence meets infrastructure"</i>
+</div>
 
-**"Building intelligent systems that bridge AI innovation with decentralized protocols to solve real-world challenges."**
+<br>
+
+<!-- Stats Grid -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=dark&hide_border=true&background=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar62367&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 📋 Professional Profile
+---
 
-Software Engineer with expertise in AI-powered applications and Web3 infrastructure. Currently building productivity tools and autonomous agents at the intersection of LLMs and blockchain technology. 8x hackathon winner with experience across BNBChain and Polygon ecosystems.
+<!-- About Me with Visual Elements -->
+<div align="center">
 
-**Current Focus:** AI-powered productivity tools, autonomous agents, and Account Abstraction (ERC-4337) infrastructure.
+## 🧠 **About The Mind Behind The Code**
 
-## 💼 Work Experience
+<table>
+  <tr>
+    <td width="60%">
+      
+**I architect intelligent systems that bridge two worlds:**  
+⚡ **Artificial Intelligence** – Building agents that think  
+⛓️ **Web3 Infrastructure** – Building protocols that decentralize
 
-**Software Engineer** @ Tata Elxsi  
-*Present*  
-Building AI-powered productivity tools and autonomous agent systems
+Currently engineering autonomous systems at **Tata Elxsi**, previously shaping developer ecosystems at **Jiffyscan** and **Polygon-Flipkart CoE**. 8x hackathon champion across BNBChain and Polygon ecosystems.
 
-**Developer Relations** @ Jiffyscan  
-*Previous*  
-Community building and developer tooling for blockchain ecosystem
+**Current obsessions:**  
+• LLM orchestration for real-time applications  
+• Account Abstraction (ERC-4337) & smart contract wallets  
+• Autonomous agent frameworks  
+• Decentralized AI compute
 
-**Intern** @ Polygon-Flipkart CoE  
-*Previous*  
-Web3 infrastructure and smart contract development
+    </td>
+    <td width="40%">
+      
+<!-- Skill Meter -->
+<pre>
+<b>🛠️ Technical Proficiency</b>
+AI/ML        ██████████ 90%
+Web3         ██████████ 95%
+Frontend     ████████░░ 80%
+Backend      ████████░░ 85%
+DevOps       ██████░░░░ 70%
 
-**Contributor** @ 0xHashstack  
-*Previous*  
-DeFi protocol development and smart contract auditing
+<b>🎯 Current Focus</b>
+Autonomous Agents  ██████████ 100%
+ERC-4337           ██████████ 100%
+LLM Orchestration  █████████░░ 90%
+</pre>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Technical Expertise
+</div>
 
-### **Artificial Intelligence & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+---
 
-### **Web3 & Blockchain Development**
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=000)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-243347?style=for-the-badge&logo=ethersdotjs&logoColor=white)
+<!-- Interactive Section -->
+<div align="center">
 
-### **Full Stack Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🌊 **Digital Footprint**
 
-## 📈 GitHub Analytics
+<!-- Repository Highlights -->
+### 🔥 **Featured Creations**
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🤖_AI_Agent-F5841F" height="30" />
+      <br>
+      <sub><b>Autonomous Workflows</b></sub>
+      <br>
+      <sub>LLM-powered automation</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/⛓️_Web3-8247E5" height="30" />
+      <br>
+      <sub><b>Smart Contract Systems</b></sub>
+      <br>
+      <sub>ERC-4337 & DeFi protocols</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🔧_Tooling-61DAFB" height="30" />
+      <br>
+      <sub><b>Developer Tools</b></sub>
+      <br>
+      <sub>CLI, SDKs, automation</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Hackathon Achievements -->
+### 🏆 **Battle-Tested Victories**
+
+<pre>
+╔════════════════════════════════════════════════════════════════╗
+║  BNBChain Hackathon '23  │  1st Place  │  Identity Solutions  ║
+║  Polygon Buildathon '23  │  2nd Place  │  Governance Systems  ║
+║  ETHGlobal Bangalore '22 │  3rd Place  │  DeFi Yield Optimize ║
+║  Chainlink Hackathon '23 │  Best AI    │  Prediction Markets  ║
+╚════════════════════════════════════════════════════════════════╝
+</pre>
+
+</div>
+
+---
+
+<!-- Tech Stack Visualization -->
+<div align="center">
+
+## ⚙️ **Tech Arsenal**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧠 AI & Intelligence</h3>
+      <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⛓️ Web3 & Blockchain</h3>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?logoColor=000" />
+      <img src="https://img.shields.io/badge/Ethers.js-243347?logo=ethersdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Full Stack</h3>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ASCII Timeline -->
+<div align="center">
+
+## 🗺️ **Engineering Journey**
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────┐
+│  2020  │  Web Development        │  Started coding journey         │
+├─────────────────────────────────────────────────────────────────────┤
+│  2021  │  Web3 Exploration       │  First smart contracts          │
+├─────────────────────────────────────────────────────────────────────┤
+│  2022  │  Hackathon Dominance    │  Multiple competition wins      │
+├─────────────────────────────────────────────────────────────────────┤
+│  2023  │  AI Integration         │  LLMs meet Blockchain           │
+├─────────────────────────────────────────────────────────────────────┤
+│  2024  │  Autonomous Systems     │  Engineering agentic workflows  │
+├─────────────────────────────────────────────────────────────────────┤
+│ Future │  Decentralized AI       │  AI meets Web3 infrastructure   │
+└─────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+---
+
+<!-- Contact & Links -->
+<div align="center">
+
+## 📡 **Connect & Collaborate**
+
+<!-- Social Links with Icons -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/harsh-kumar-125ba8200">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/spectre_harsh07">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:harshkumar62367@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harshkumar62367">
+        <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Visitor Counter & Status -->
 <div align="center">
   
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkumar62367&show_icons=true&theme=algolia&count_private=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=harshkumar62367&color=blueviolet&style=flat-square)
+
+**Status:** 🟢 **Actively building** • **Open to:** Senior AI/Web3 roles  
+**Based in:** Bangalore, India • **Remote:** Available worldwide
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar62367&layout=compact&theme=algolia&hide_border=true&langs_count=8)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshkumar62367&theme=algolia&hide_border=true)
+<!-- ASCII Footer -->
+<pre>
+┌─────────────────────────────────────────────────────────────┐
+│  "The best way to predict the future is to invent it."      │
+│                    – Alan Kay                               │
+└─────────────────────────────────────────────────────────────┘
+</pre>
 
 </div>
-
-## 🏅 Hackathon Achievements
-
-- **1st Place** - BNBChain Hackathon 2023: Decentralized Identity Solution
-- **2nd Place** - Polygon Buildathon 2023: Cross-chain Governance Platform
-- **3rd Place** - ETHGlobal Bangalore 2022: DeFi Yield Optimizer
-- **Best Use of AI** - Chainlink Hackathon 2023: Oracle-powered Prediction Market
-- **4x Additional Wins** across various Web3 hackathons
-
-## 📚 Recent Blog Posts & Talks
-
-- **"LLM Orchestration for Real-time Applications"** - Dev.to series
-- **"Account Abstraction: The Future of Web3 UX"** - Community talk at Polygon Guild
-- **"Building Gasless dApps with ERC-4337"** - Technical workshop
-- **"AI-Powered Developer Tools"** - Conference presentation
-
-## 🤝 Open Source Contributions
-
-Active contributor to:
-- **Ethers.js** - EVM library improvements
-- **Hardhat** - Testing framework enhancements
-- **OpenZeppelin** - Smart contract security patterns
-- **Various Web3 tooling projects**
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-125ba8200)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spectre_harsh07)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkumar62367@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshkumar62367)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/spectre_7)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to:** Senior Software Engineer roles in AI/ML, Web3 infrastructure, or full-stack development  
-**Location:** Bangalore, India • Open to remote opportunities  
-**Status:** Actively building and exploring new challenges
-
-<br>
-
-<img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" width="200" />
 
 </div>
