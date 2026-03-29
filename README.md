@@ -1,37 +1,32 @@
 <div align="center">
 
-<!-- ASCII Art Header -->
+<!-- Clean ASCII Art Header with proper spacing -->
 <pre>
-  ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
-  ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-  ███████║███████║██████╔╝███████╗███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-  ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-  ██║  ██║██║  ██║██║  ██║███████║██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                                                                          
-  ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██████╗ ███████╗██████╗ 
-  ██╔════╝██║  ██║██╔══██╗██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-  ███████╗███████║██████╔╝██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-  ╚════██║██╔══██║██╔═══╝ ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
-  ███████║██║  ██║██║     ███████╗╚██████╔╝██║  ██║███████╗██║  ██║
-  ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
+███████║███████║██████╔╝███████╗███████║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 </pre>
 
-### ⚡ AI Engineer • Web3 Builder • Open Source Alchemist
+# H A R S H
+
+### ⚡ AI Engineer • Web3 Architect • System Thinker
 
 <!-- Dynamic Badges -->
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <!-- Quote -->
 <div align="center">
-  <i>"Where intelligence meets infrastructure"</i>
+  <i>"Engineering intelligent systems at the intersection of AI and Web3"</i>
 </div>
 
 <br>
@@ -60,40 +55,40 @@
 <!-- About Me with Visual Elements -->
 <div align="center">
 
-## 🧠 **About The Mind Behind The Code**
+## 🧠 **About Me**
 
 <table>
   <tr>
     <td width="60%">
       
-**I architect intelligent systems that bridge two worlds:**  
-⚡ **Artificial Intelligence** – Building agents that think  
-⛓️ **Web3 Infrastructure** – Building protocols that decentralize
+**Building bridges between intelligence and infrastructure**  
+⚡ **AI Systems** – Architecting autonomous agents and LLM workflows  
+⛓️ **Web3 Protocols** – Engineering decentralized infrastructure
 
-Currently engineering autonomous systems at **Tata Elxsi**, previously shaping developer ecosystems at **Jiffyscan** and **Polygon-Flipkart CoE**. 8x hackathon champion across BNBChain and Polygon ecosystems.
+Currently leading AI-powered systems at **Tata Elxsi**, with previous contributions to **Jiffyscan**, **Polygon-Flipkart CoE**, and **0xHashstack**. Recognized through 8+ hackathon victories across BNBChain and Polygon ecosystems.
 
-**Current obsessions:**  
-• LLM orchestration for real-time applications  
-• Account Abstraction (ERC-4337) & smart contract wallets  
+**Core focus areas:**  
+• LLM orchestration for production applications  
+• Account Abstraction (ERC-4337) infrastructure  
 • Autonomous agent frameworks  
-• Decentralized AI compute
+• Decentralized AI compute networks
 
     </td>
     <td width="40%">
       
 <!-- Skill Meter -->
 <pre>
-<b>🛠️ Technical Proficiency</b>
+<b>🛠️ Technical Spectrum</b>
 AI/ML        ██████████ 90%
 Web3         ██████████ 95%
 Frontend     ████████░░ 80%
 Backend      ████████░░ 85%
 DevOps       ██████░░░░ 70%
 
-<b>🎯 Current Focus</b>
-Autonomous Agents  ██████████ 100%
-ERC-4337           ██████████ 100%
-LLM Orchestration  █████████░░ 90%
+<b>🎯 Active Development</b>
+Autonomous Agents  ██████████
+ERC-4337           ██████████
+LLM Systems        ████████░░
 </pre>
     </td>
   </tr>
@@ -106,33 +101,33 @@ LLM Orchestration  █████████░░ 90%
 <!-- Interactive Section -->
 <div align="center">
 
-## 🌊 **Digital Footprint**
+## 🌊 **Engineering Impact**
 
 <!-- Repository Highlights -->
-### 🔥 **Featured Creations**
+### 🔥 **Core Competencies**
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🤖_AI_Agent-F5841F" height="30" />
+      <img src="https://img.shields.io/badge/🤖_AI_Systems-F5841F" height="30" />
       <br>
-      <sub><b>Autonomous Workflows</b></sub>
+      <sub><b>Intelligent Automation</b></sub>
       <br>
-      <sub>LLM-powered automation</sub>
+      <sub>LLM orchestration, agentic workflows</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/⛓️_Web3-8247E5" height="30" />
+      <img src="https://img.shields.io/badge/⛓️_Web3_Infra-8247E5" height="30" />
       <br>
-      <sub><b>Smart Contract Systems</b></sub>
+      <sub><b>Decentralized Systems</b></sub>
       <br>
-      <sub>ERC-4337 & DeFi protocols</sub>
+      <sub>Smart contracts, protocol design</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔧_Tooling-61DAFB" height="30" />
+      <img src="https://img.shields.io/badge/🔧_Developer_Tools-61DAFB" height="30" />
       <br>
-      <sub><b>Developer Tools</b></sub>
+      <sub><b>Tooling & Platforms</b></sub>
       <br>
-      <sub>CLI, SDKs, automation</sub>
+      <sub>CLIs, SDKs, infrastructure</sub>
     </td>
   </tr>
 </table>
@@ -140,7 +135,7 @@ LLM Orchestration  █████████░░ 90%
 <br>
 
 <!-- Hackathon Achievements -->
-### 🏆 **Battle-Tested Victories**
+### 🏆 **Recognitions & Wins**
 
 <pre>
 ╔════════════════════════════════════════════════════════════════╗
@@ -158,7 +153,7 @@ LLM Orchestration  █████████░░ 90%
 <!-- Tech Stack Visualization -->
 <div align="center">
 
-## ⚙️ **Tech Arsenal**
+## ⚙️ **Technology Stack**
 
 <table>
   <tr>
@@ -168,6 +163,9 @@ LLM Orchestration  █████████░░ 90%
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/LlamaIndex-4B5563?logo=llama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <h3>⛓️ Web3 & Blockchain</h3>
@@ -175,13 +173,19 @@ LLM Orchestration  █████████░░ 90%
       <img src="https://img.shields.io/badge/Hardhat-FFF100?logoColor=000" />
       <img src="https://img.shields.io/badge/Ethers.js-243347?logo=ethersdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Foundry-000000?logo=foundry&logoColor=white" />
+      <img src="https://img.shields.io/badge/The_Graph-6747ED?logo=thegraph&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>🚀 Full Stack</h3>
-      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+      <h3>🚀 Full Stack & DevOps</h3>
       <img src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -190,25 +194,29 @@ LLM Orchestration  █████████░░ 90%
 
 ---
 
-<!-- ASCII Timeline -->
+<!-- Timeline -->
 <div align="center">
 
-## 🗺️ **Engineering Journey**
+## 🗺️ **Professional Journey**
 
 <pre>
-┌─────────────────────────────────────────────────────────────────────┐
-│  2020  │  Web Development        │  Started coding journey         │
-├─────────────────────────────────────────────────────────────────────┤
-│  2021  │  Web3 Exploration       │  First smart contracts          │
-├─────────────────────────────────────────────────────────────────────┤
-│  2022  │  Hackathon Dominance    │  Multiple competition wins      │
-├─────────────────────────────────────────────────────────────────────┤
-│  2023  │  AI Integration         │  LLMs meet Blockchain           │
-├─────────────────────────────────────────────────────────────────────┤
-│  2024  │  Autonomous Systems     │  Engineering agentic workflows  │
-├─────────────────────────────────────────────────────────────────────┤
-│ Future │  Decentralized AI       │  AI meets Web3 infrastructure   │
-└─────────────────────────────────────────────────────────────────────┘
+2020 ──┐ Web Foundations
+       └─ Started engineering journey
+       
+2021 ──┐ Web3 Exploration  
+       └─ First smart contracts & dApps
+       
+2022 ──┐ Hackathon Circuit
+       └─ Multiple competition victories
+       
+2023 ──┐ AI Integration  
+       └─ LLMs meet blockchain systems
+       
+2024 ──┐ Systems Architecture
+       └─ Autonomous agents at scale
+       
+Future ──┐ Decentralized Intelligence
+        └─ AI infrastructure on Web3
 </pre>
 
 </div>
@@ -225,22 +233,22 @@ LLM Orchestration  █████████░░ 90%
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/harsh-kumar-125ba8200">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://twitter.com/spectre_harsh07">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twitter-Industry%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="mailto:harshkumar62367@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Harshkumar62367">
-        <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -253,16 +261,15 @@ LLM Orchestration  █████████░░ 90%
   
 ![Profile Views](https://komarev.com/ghpvc/?username=harshkumar62367&color=blueviolet&style=flat-square)
 
-**Status:** 🟢 **Actively building** • **Open to:** Senior AI/Web3 roles  
-**Based in:** Bangalore, India • **Remote:** Available worldwide
+**Status:** 🟢 **Actively engineering** • **Open to:** Senior AI/Web3 roles  
+**Location:** Bangalore, India • **Remote:** Available globally
 
 <br>
 
-<!-- ASCII Footer -->
+<!-- Clean Footer -->
 <pre>
 ┌─────────────────────────────────────────────────────────────┐
-│  "The best way to predict the future is to invent it."      │
-│                    – Alan Kay                               │
+│  Engineering systems that think and protocols that empower  │
 └─────────────────────────────────────────────────────────────┘
 </pre>
 
