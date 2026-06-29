@@ -30,7 +30,7 @@
 
 ```typescript
 const harsh = {
-  role:       "Software Engineer @ Tata Elxsi",
+  role:       "Forward Deployed Engineer @ Logicloop",
   location:   "Bangalore, India 🇮🇳",
   building:   ["Autonomous Agent Frameworks", "AI Productivity Tools", "DeFi Infrastructure"],
   expertise:  ["LLM Orchestration", "ERC-4337 Account Abstraction", "Decentralized AI"],
